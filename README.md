@@ -24,8 +24,8 @@
 
 ### Задание 1
 
-1. `https://github.com/requeiem/sys-pattern-homework-git-8.03-hw/blob/main/img/1.jpg`
-`https://github.com/requeiem/sys-pattern-homework-git-8.03-hw/blob/main/img/2.jpg`
-`https://github.com/requeiem/sys-pattern-homework-git-8.03-hw/blob/main/img/3.jpg`
-`https://github.com/requeiem/sys-pattern-homework-git-8.03-hw/blob/main/img/4.jpg`
+1. ![alt text](https://github.com/requeiem/sys-pattern-homework-git-8.03-hw/blob/main/img/1.jpg)
+![alt text](https://github.com/requeiem/sys-pattern-homework-git-8.03-hw/blob/main/img/2.jpg)
+![alt text](https://github.com/requeiem/sys-pattern-homework-git-8.03-hw/blob/main/img/3.jpg)
+![alt text](https://github.com/requeiem/sys-pattern-homework-git-8.03-hw/blob/main/img/4.jpg)
 
