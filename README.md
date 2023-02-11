@@ -1,4 +1,4 @@
-#Домашнее задание к занятию "`8.1. Git`" - `Чесноков Александр`
+#Домашнее задание к занятию "`10.1 Keepalived/vrrp`" - `Чесноков Александр`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -24,16 +24,8 @@
 
 ### Задание 1
 
-1. `https://github.com/requeiem/requaere/commit/7806fe92093d15139463317be3b23de025915d6f`
+1. `https://github.com/requeiem/sys-pattern-homework-git-8.03-hw/blob/main/img/1.jpg`
+`https://github.com/requeiem/sys-pattern-homework-git-8.03-hw/blob/main/img/2.jpg`
+`https://github.com/requeiem/sys-pattern-homework-git-8.03-hw/blob/main/img/3.jpg`
+`https://github.com/requeiem/sys-pattern-homework-git-8.03-hw/blob/main/img/4.jpg`
 
----
-
-### Задание 2
-
-1. `https://github.com/requeiem/requaere/commit/968c322988896201f200fce00c1eab99dc6d8042`
-
----
-
-### Задание 3
-
-1. `https://github.com/requeiem/requaere/network`
