@@ -45,4 +45,4 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 customer         | customer_id
 ```
 
-![alt text](https://github.com/requeiem/sys-pattern-homework-git-8.03-hw/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B52.xlsx)
+[Excel файл по 2 заданию](https://github.com/requeiem/sys-pattern-homework-git-8.03-hw/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B52.xlsx)
