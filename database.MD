@@ -36,23 +36,23 @@
 
 Сотрудники
 Сотрудники_id				(integer)
-Фамилия 				varchar(50)
-Имя 					varchar(50)
-Отчество 				varchar(50)
-адрес филиала_id 			(integer)
-дата 					(date)
-проект 					varchar(50)
-структурное подразделение_id 		(integer)
+Фамилия					varchar(50)
+Имя					varchar(50)
+Отчество				varchar(50)
+адрес филиала_id			(integer)
+дата					(date)
+проект					varchar(50)
+структурное подразделение_id		(integer)
 
 адрес филиала
-адрес филиала_id 			(integer)
+адрес филиала_id			(integer)
 область					varchar(50)
-улица 					varchar(50)
-дом 					(integer)
+улица					varchar(50)
+дом					(integer)
 
 Город
 город					varchar(50)
-адрес филиала_id 			(integer)
+адрес филиала_id			(integer)
 
 Должность
 должность_id				(integer)
@@ -60,11 +60,11 @@
 
 Оклад
 Сотрудники_id				(integer)
-оклад 					(money)
+оклад					(money)
 
 Тип подразделения
-Тип подразделения_id	 		(integer)
-Тип подразделения		 	varchar(50)
+Тип подразделения_id			(integer)
+Тип подразделения			varchar(50)
 
 Структурное подразделение
 Структурное подразделение_id		(integer)
