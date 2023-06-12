@@ -24,3 +24,7 @@
 Получите информацию, за какой месяц была получена наибольшая сумма платежей, и добавьте информацию по количеству аренд за этот месяц.
 
 ![alt text](https://github.com/requeiem/sys-pattern-homework-git-8.03-hw/blob/main/img/sql2_query3.jpg)
+
+### Исправление
+
+![alt text](https://github.com/requeiem/sys-pattern-homework-git-8.03-hw/blob/main/img/rezolution.jpg)
