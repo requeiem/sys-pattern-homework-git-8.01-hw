@@ -4,12 +4,15 @@
 
 ### Доработка домашнего задания
 
-```CREATE INDEX pay_date ON payment(payment_date);
+```sql
+CREATE INDEX pay_date ON payment(payment_date);
 ```
 
-```select * from information_schema.statistics where table_name = 'payment';
+```sql
+select * from information_schema.statistics where table_name = 'payment';
 ```
-```
+
+```sql
 EXPLAIN ANALYZE
 select distinct concat(c.last_name, ' ', c.first_name), sum(p.amount) over (partition by c.customer_id)
 from payment p, customer c
